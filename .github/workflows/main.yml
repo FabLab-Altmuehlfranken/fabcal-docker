@@ -19,5 +19,5 @@ jobs:
         with:
           context: https://git.fablab-altmuehlfranken.de/fmueller/fabcal.git#main
           pull: true
-          tags: ghcr.io/FabLab-Altmuehlfranken/fabcal-docker:latest
+          tags: ghcr.io/fablab-altmuehlfranken/fabcal-docker:latest
           push: true
